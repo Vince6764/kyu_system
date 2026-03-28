@@ -1,5 +1,5 @@
 # KYU Results Management System 🎓
-A secure web-based portal developed for **Kirinyaga University** to manage student grades and administrative tasks.
+A secure web-based portal developed for **Kusoma University** to manage student grades and administrative tasks.
 
 ## 🚀 Features
 * **Dual Portal System:** Separate login interfaces for Students and Staff (Admins).
